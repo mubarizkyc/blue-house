@@ -95,5 +95,5 @@ fn swap() {
 ```
 Dex Accounts details [here](https://github.com/mubarizkyc/blue-house/blob/main/Accounts.md)
 
-[Telegram](https://t.me/kyc1104)
+[Telegram](https://t.me/mubarizkyc)
 
